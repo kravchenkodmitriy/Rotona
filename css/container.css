@@ -1,0 +1,8 @@
+
+.intro {
+    background-image: url("../images/circle.png");
+    padding-top: 172px;
+    padding-bottom: 172px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
