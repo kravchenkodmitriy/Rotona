@@ -1,0 +1,36 @@
+.facts {
+    height: 217px;
+    background-color: #913bbe;
+}
+.facts__list {
+    margin-left: 105px;
+
+
+}
+.facts__item {
+    display: inline-block;
+    color: white;
+    word-spacing: 1.2em;
+}
+.facts__digits {
+    color: white;
+    display: inline-block;
+    font-size: 60px;
+    font-family: 'Poppins ExtraBold';
+}
+.facts__row {
+    display: inline-block;
+    padding-right: 87px;
+}
+.facts__text {
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-family: 'Poppins ExtraBold';
+}
+.facts__description {
+    padding: 0;
+    margin: 0;
+    
+}
