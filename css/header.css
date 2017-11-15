@@ -1,0 +1,13 @@
+
+.greeting{
+    background-image: url("../images/111.png");
+    height: 100vh;
+    background-size: cover;
+    padding-top: 24px;
+    min-height: 780px;
+}
+.container-intro{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}

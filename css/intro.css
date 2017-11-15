@@ -1,0 +1,27 @@
+.intro {
+
+}
+.intro_subtitle {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Poppins Medium';
+    font-size: 30px;
+}
+.intro__title {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 60px;
+}
+.intro__description {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 24px;
+}
+.intro__info {
+    max-width: 670px;
+}
