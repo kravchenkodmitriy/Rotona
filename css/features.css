@@ -1,0 +1,36 @@
+.item {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.item__content{
+   width: 370px;
+    display: inline-block;
+    margin-left: 61px;
+    margin-bottom: 53px;
+}
+.item__picture {
+    text-align: center;
+
+}
+.item__picture {
+
+}
+.item__image{
+    position: relative;
+    right: -30px;
+    top: -8px;
+}
+.item__icons {
+    top: -10px;
+}
+.item__caption {
+    text-align: center;
+    margin: 39px 0px 26px 0px;
+    padding: 0;
+}
+.item__text {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}

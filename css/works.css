@@ -1,0 +1,51 @@
+.works {
+    margin-top: 112px;
+    margin-bottom: 98px;
+}
+.works__title {
+    text-align: center;
+    margin-bottom: 150px;
+}
+.works__description {
+    margin-left: 131px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.works__subtitle {
+
+    margin: 0;
+    font-size: 30px;
+    font-family: 'Open Sans ExtraBold';
+}
+.works__text {
+    margin-left: 488px;
+    width: 370px;
+    font-size: 16px;
+    font-family: "Open Sans Light";
+    color: #999999;
+}
+.mockup {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.works__picture {
+    width: 610px;
+
+}
+.content {
+    display: inline-block;
+    width: 590px;
+    vertical-align: middle;
+}
+.content__title {
+    margin: 0;
+    font-size: 36px;
+    font-family: 'Poppins ExtraBold';
+}
+.content__description {
+    margin-top: 27px;
+    margin-bottom: 47px;
+    font-size: 14px;
+    font-family: "Open Sans";
+}

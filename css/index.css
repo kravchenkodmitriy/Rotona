@@ -5,8 +5,11 @@
 @import "poppins.css";
 @import "container.css";
 @import "intro.css";
-
-
+@import "about.css";
+@import "features.css";
+@import "facts.css";
+@import "works.css";
+@import "provide.css";
 
 body {
     margin: 0;

@@ -25,3 +25,10 @@
 .intro__info {
     max-width: 670px;
 }
+.rewiews__buttom {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Open Sans ExtraBold';
+}

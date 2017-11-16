@@ -1,0 +1,53 @@
+.about {
+    background-color: white;
+    margin-bottom: 90px;
+    border-bottom: 1px solid #CCC;
+}
+.about__container {
+    display: inline-block;
+}
+.about__photo {
+    width: 400px;
+    height: 250px;
+    display: inline-block;
+    margin-left: 294px;
+    padding-top: 211px;
+
+}
+.about__text {
+    width: 470px;
+    display: inline-block;
+}
+.about__subtitle {
+    padding-bottom: 33px;
+    margin: 0;
+    color: #913bbe;
+    font-size: 24px;
+    font-family: 'Open Sans ExtraBold';
+
+}
+.caption {
+    padding-bottom: 37px;
+
+    margin: 0;
+    color: black;
+    font-size: 48px;
+    font-family: 'Open Sans ExtraBold';
+
+}
+.caption__description {
+    padding-bottom: 50px;
+    margin: 0;
+}
+.about__buttom {
+    padding: 0;
+    margin: 0;
+    color: black;
+    text-decoration: none;
+    font-family: 'Open Sans ExtraBold';
+}
+
+.about__image {
+    max-width: 100%;
+    height: 100%;
+}
