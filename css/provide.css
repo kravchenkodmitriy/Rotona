@@ -1,0 +1,19 @@
+.provide {
+    text-align: center;
+}
+.provide__works {
+    font-size: 30px;
+    font-family: 'Poppins';
+}
+.provide__description {
+    font-family: 'Open Sans';
+    font-size: 16px;
+    color: #999999;
+    width: 370px;
+    margin-left: 497px;
+}
+
+.service__list {
+    list-style-type: none;
+    padding: 0;
+}
