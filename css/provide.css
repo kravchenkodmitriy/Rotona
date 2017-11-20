@@ -16,5 +16,44 @@
 .service__list {
     list-style-type: none;
     padding: 0;
+    margin: 0;
 }
-ю
+.service__item {
+    min-height: 480px;
+    width: 570px;
+    display:inline-block;
+    vertical-align:top;
+}
+.service__list_size_large {
+    width: 570px;
+    padding-right: 18px;
+}
+.service__list_size_medium {
+    width: 290px;
+}
+.service__list_size_smal {
+    width: 290px;
+}
+.service__image {
+    position: relative;
+
+}
+h4 {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 100%;
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+
+}
+h5 {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 100%;
+    font-size: 48px;
+    color: white;
+    text-transform: uppercase;
+}
