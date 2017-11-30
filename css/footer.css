@@ -1,31 +1,93 @@
+.footer {
+    background-image: url("../images/backgroung___footer.png");
+    background-size: cover;
+}
 .footer__name {
     font-size: 24px;
     font-family: "Poppins";
     padding: 0;
-    margin: 0;
+    margin-bottom: 52px;
 }
 .footer__text__about {
     max-width: 470px;
+    padding-bottom: 123px;
+    display: inline-block;
+    vertical-align: middle;
 }
 .footer__list {
     padding: 0;
-
     display: inline-block;
     list-style-type: none;
     float: right;
-    margin-bottom: 66px;
+    vertical-align: middle;
+    margin: 0;
+
 }
 .footer__text__description {
     font-family: "Open Sans";
     font-size: 14px;
 }
-.rights {
-    font-size: 14px;
-    font-family: "Open Sans";
-}
+
 .footer__text-blockqute {
     font-size: 14px;
     font-family: "Poppins ExtraBold";
+}
+.footer__list__item {
+    display: inline-block;
+    font-family: 'Poppins SemiBold';
+    font-size: 14px;
+    padding-right: 30px;
+    vertical-align: middle;
+}
+.rights {
+    font-size: 14px;
+    font-family: "Open Sans";
+    padding: 0;
+    margin: 0;
+}
+.social {
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+.social__item {
+    display: inline-block;
+    margin-right: 13px;
+}
+.social__networks {
+
+    font-size: 24px;
+}
+.footer__text {
+    display: inline-block;
+}
+.communications {
+    display: inline-block;
+}
+.email__address {
+    display: inline-block;
+    padding-left: 143px;
+    vertical-align: middle;
+    padding-top: 81px;
+}
+.fa-facebook {
+    font-size: 10px;
+    color: #3b5998;
+}
+.fa-twitter {
+    color: #1da1f2;
+}
+.fa-google-plus {
+    color: #dd4b39;
+}
+.fa-linkedin {
+    color: #0077b5;
+}
+input{
+    background:none;
+    border:none;
+    outline:none;
+    border-bottom:1px solid #CCC;
 }
 .communications__adress {
     text-decoration: none;
@@ -36,13 +98,12 @@
     padding: 12px;
     font-size: 14px;
 }
-.footer__list__item {
+.form {
     display: inline-block;
-    font-family: 'Poppins SemiBold';
-    font-size: 14px;
-    padding-right: 30px;
+}
+.footer__row {
+    vertical-align: middle;
+    padding-bottom: 20px;
+}
 
-}
-.social {
-    list-style-type: none;
-}
+
