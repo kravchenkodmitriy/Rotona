@@ -1,6 +1,8 @@
 .works {
     margin-top: 112px;
     margin-bottom: 98px;
+    border-bottom: 1px solid #CCC;
+    padding-bottom: 93px;
 }
 .works__title {
     text-align: center;
@@ -27,21 +29,24 @@
 .mockup {
     display: inline-block;
     vertical-align: middle;
-
+    padding-left: 73px;
 }
 .works__picture {
-    width: 610px;
+
 
 }
 .content {
     display: inline-block;
-    width: 590px;
+    max-width: 470px;
     vertical-align: middle;
+    padding-left: 40px;
+    text-align: left;
 }
 .content__title {
     margin: 0;
     font-size: 36px;
     font-family: 'Poppins ExtraBold';
+    padding-bottom: 50px;
 }
 .content__description {
     margin-top: 27px;
