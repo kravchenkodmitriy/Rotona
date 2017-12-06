@@ -1,0 +1,15 @@
+.partners {
+    margin-top: 60px;
+    margin-bottom: 116px;
+}
+.partners-list {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 106px;
+    text-align: center;
+
+}
+.partners__item {
+    display: inline-block;
+    margin-right: 88px;
+}
