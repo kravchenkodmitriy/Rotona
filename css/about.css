@@ -6,17 +6,42 @@
 }
 
 .about__photo {
-    width: 400px;
-    height: 250px;
+    position: relative;
     display: inline-block;
-    padding-top: 211px;
-    padding-left: 186px;
-
+    padding-top: 127px;
+}
+.about__image {
+    position: relative;
+    top: -146px;
+    left: -150px;
+}
+.about__image_border {
+    border: 15px solid #913bbe;
+    position: relative;
+    left: -82px;
+    top: -53px;
+}
+.about__image_left {
+    position: relative;
+    top: -10px;
+}
+.about__background {
+    display: inline-block;
+    position: absolute;
+    padding-top: 84px;
+    padding-left: 215px;
+}
+.about__background-picture {
+    position: relative;
+    top: -31px;
 }
 .about__text {
     width: 470px;
     display: inline-block;
     text-align: left;
+    position: absolute;
+    right: 90px;
+    top: 993px;
 }
 .about__subtitle {
     padding-bottom: 33px;
@@ -28,7 +53,6 @@
 }
 .caption {
     padding-bottom: 37px;
-
     margin: 0;
     color: black;
     font-size: 48px;
@@ -47,7 +71,4 @@
     font-family: 'Open Sans ExtraBold';
 }
 
-.about__image {
-    max-width: 100%;
-    height: 100%;
-}
+
